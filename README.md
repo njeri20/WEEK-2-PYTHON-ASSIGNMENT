@@ -12,3 +12,4 @@ my_list.sort()
 index_of_30=my_list.index(30)
 print(f "The final list is:{my_list}")
 print(f "The index of 30 is:{index_of_30}")
+
